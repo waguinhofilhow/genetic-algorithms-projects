@@ -41,4 +41,4 @@ GA is inspired by natural evolution and uses **selection**, **crossover**, and *
 │   ├── plot_best_individuals.py  
 │   └── data/ # Charts and csv files     
 └── README.md # Documentation  
-└── LICENSE # License  
+└── LICENSE
